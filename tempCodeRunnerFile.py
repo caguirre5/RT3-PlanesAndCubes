@@ -1,0 +1,1 @@
+rtx.lights.append(DirectionalLight(direction=(-1, -1, -1), intensity=0.8))
