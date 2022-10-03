@@ -11,7 +11,7 @@ height = 256
 # Materiales
 
 brick = Material(diffuse=(0.8, 0.3, 0.3), spec=16)
-stone = Material(diffuse=(0.4, 0.4, 0.4), spec=8)
+stone = Material(diffuse=(1, 1, 1), spec=8)
 mirror = Material(diffuse=(0.9, 0.9, 0.9), spec=64, matType=REFLECTIVE)
 glass = Material(diffuse=(0.9, 0.9, 0.9), spec=64,
                  ior=1.5, matType=TRANSPARENT)
